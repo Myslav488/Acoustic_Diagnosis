@@ -134,7 +134,7 @@ if numb > 9 && numb < 13
 end
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% PART 2: RECOGNIZING
+%% PART 2: EXTRACING FEATURES
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Downoading following files 
 myDir = '\samples';
